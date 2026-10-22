@@ -19,6 +19,7 @@ OrderFlow є modular monolith з модулями Orders, Payments, Inventory, N
 - [Analysis tools](docs/analysis-tools.md)
 - [Architecture proposal](docs/architecture-proposal.md)
 - [AI-assisted delivery та Time to Market](docs/ai-time-to-market.md)
+- [Аналіз еволюції архітектури](docs/architecture-analysis.md)
 
 `docs/architecture-proposal.md` містить proposal, а не requirement. Його можна прийняти, змінити частково або відхилити.
 
